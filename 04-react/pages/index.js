@@ -25,6 +25,7 @@ Example:
 `);
 
 import React from 'react';
+import Row from './Row';
 
 export default class MyApp extends React.Component {
   render() {
